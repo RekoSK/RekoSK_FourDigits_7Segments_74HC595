@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map for RekoSK_FourDigits_7segments_74HC595 Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+FourDigits_7segments_74HC595	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+SegmentPrint	KEYWORD2
+clear	KEYWORD2
+printInt	KEYWORD2
+Create0	KEYWORD2
+Create1	KEYWORD2
+Create2	KEYWORD2
+Create3	KEYWORD2
+Create4	KEYWORD2
+Create5	KEYWORD2
+Create6	KEYWORD2
+Create7	KEYWORD2
+Create8	KEYWORD2
+Create9	KEYWORD2
+CreateMinus	KEYWORD2
+CreateBlank	KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
