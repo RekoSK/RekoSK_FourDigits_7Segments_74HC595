@@ -3,10 +3,10 @@
 Easy-to-use library to make this display work.
 
 ### Features:
-- 3 examples,
-- Printing any number from -999 to 999 on display,
-- Precreated function for printing out any number,
-- Segment toogle (on/off)
+3 examples,
+Printing any number from -999 to 999 on display,
+Precreated function for printing out any number,
+Segment toogle (on/off)
 
 ### Storage usage:
 It's not the most optimized library, but hey, it makes the job done.
